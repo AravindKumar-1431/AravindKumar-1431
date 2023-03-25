@@ -1,4 +1,4 @@
-### Hi there 👋 here Aravind
+### Hi 👋 here Aravind
 
 <b>I'm full stack web developer</b>
 
